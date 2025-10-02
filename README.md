@@ -7,6 +7,9 @@
 * Generates an HTML page with book details.
 * Provides a search link for each book to your ABR container.
 
+## Config
+Just variables at the top of main.py. Was a bit too lazy for a config file this morning.
+
 ## Usage
 
 ```bash
