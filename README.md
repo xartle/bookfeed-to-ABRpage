@@ -1,6 +1,6 @@
 # RSS Books
 
-<img width="1189" height="920" alt="image" src="https://github.com/user-attachments/assets/02c2733e-adaf-4dba-b66e-45027bf2319c" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/02c2733e-adaf-4dba-b66e-45027bf2319c" />
 
 ## Features
 
